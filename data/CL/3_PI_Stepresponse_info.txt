@@ -1,0 +1,5 @@
+Zieltemp := 40.06;
+Kp := 0.2;
+Ki := 0.001;
+
+Tn const wie bei T-Summen-Regel Schnell

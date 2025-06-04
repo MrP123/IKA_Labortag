@@ -1,0 +1,7 @@
+Start Temp 30°C
+Ziel Temp 40°C 
+
+Kp := 0.0321;
+Ki := 0.000159;
+
+Alle Ventilatoren an.

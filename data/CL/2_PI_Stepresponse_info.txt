@@ -1,0 +1,7 @@
+Zieltemp := 40.06;
+Kp := 0.0321;
+Ki := 0.000159;
+
+Startsignal und Reglerausgang U [0..5]V sind im File mit drinnen. 
+
+Tatsächlicher Ist wert := (tempSens1 + tempSens2 ) / 2
